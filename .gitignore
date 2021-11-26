@@ -1,0 +1,11 @@
+# ignore everything
+*.*
+
+# except for these files (whitelist)
+!autoexec.cfg
+!keybinds.cfg
+!sound/ # another .gitignore in this directory
+!sound/*
+
+!.gitignore
+!README.md
