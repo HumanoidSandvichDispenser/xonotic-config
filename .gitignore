@@ -5,7 +5,8 @@
 !autoexec.cfg
 !keybinds.cfg
 !midi.cfg
-!music-*
+!songs/
+!songs/*
 !sound/ # another .gitignore in this directory
 !sound/*
 
