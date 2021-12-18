@@ -5,7 +5,7 @@
 !autoexec.cfg
 !keybinds.cfg
 !midi.cfg
-!por-una-cabeza*
+!music-*
 !sound/ # another .gitignore in this directory
 !sound/*
 
