@@ -4,6 +4,8 @@
 # except for these files (whitelist)
 !autoexec.cfg
 !keybinds.cfg
+!midi.cfg
+!por-una-cabeza*
 !sound/ # another .gitignore in this directory
 !sound/*
 
